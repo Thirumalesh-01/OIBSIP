@@ -2,7 +2,7 @@
 A Tribute Page Using The Html,Css and Javascript
 
 
-A Tribute Page To Sushanth Singh Rajput front page consists of the Biography of Him
+ Biography of Him
 
 ![Screenshot (904)](https://user-images.githubusercontent.com/112425259/210042195-8c6112d4-08bd-47a8-a4a0-47c26fe94b5c.png)
 
